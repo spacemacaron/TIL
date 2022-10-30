@@ -1,2 +1,5 @@
 # TIL
-Today I learned
+**Today I learned**
+
+그날 알아보며 배운 것과 삽질들을 정리한다.   
+문외한일 때부터의 기록을 남겨 성장을 경험하자.   
