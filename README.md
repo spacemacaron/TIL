@@ -48,7 +48,10 @@
 ### Python
 
 
+---
 
-### Other
+### Computer Science
 
 1. [221130](OTHER/221130.md)
+
+
