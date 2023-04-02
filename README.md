@@ -44,6 +44,7 @@
 
 ### Python
  
+0. (Python/first_py.md)  
 1. [230108](python/230108.md)
 2. [230109](Python/230109.md)
 3. [230110](Python/230110.md)
@@ -59,10 +60,25 @@
 13. [230120](Python/230120.md)
 14. [230121](Python/230121.md)
 15. [230122](Python/230122.md)
+16. [230123](Python/230123.md)
+17. [230124](Python/230124.md)
+18. [230125](Python/230125.md)
+19. [230126](Python/230126.md)
+20. [230127](Python/230127.md)
+21. [230128](Python/230128.md)
+22. [230129](Python/230129.md)
+23. [230130](Python/230130.md)
+24. [230131](Python/230131.md)
+25. [230201](Python/230201.md)
+26. [230202](Python/230202.md)
+27. (Python/memo1.md)
+28. (python/memo2.md)
 
 ---
 
 ### Computer Science
+
+Basic
 
 1. [221130](OTHER/221130.md)
 
@@ -73,3 +89,10 @@
 
 1. [221015-221024](HTML/221015-1024.md)
 2. [230108](Python/first_py.md)
+
+---
+
+### Python Challenge
+ personal project
+
+1. (Pythonchallenge/day1.md)
