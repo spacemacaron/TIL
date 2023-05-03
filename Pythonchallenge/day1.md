@@ -39,3 +39,32 @@ Hello world!
 
 Input < 입력을 받는 함수 
 (내가 어떤 값을 입력하면 그것으로 대체되는거야)
+
+
+#day 1 end project
+
+# input() will get user input in console
+# Then print() will print the word "Hello" and the user input
+
+
+#1. Create a greeting for your program.
+
+#2. Ask the user for the city that they grew up in.
+
+#3. Ask the user for the name of a pet.
+
+#4. Combine the name of their city and pet and show them their band name.
+
+#5. Make sure the input cursor shows on a new line:
+
+# Solution: https://replit.com/@appbrewery/band-name-generator-end
+
+
+
+
+
+
+print("Welcome to the Band Name Generator.")
+city = input("What's name of the city you grew up in?\n")
+pet = input("What's your pet's name?\n")
+print("Your band name could be " + city + " " + pet)
